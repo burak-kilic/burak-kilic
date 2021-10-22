@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=burak-kilic.burak-kilic)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+
 
 </p>
 <div size='20px'> Hi! My name is Burak. Thank You for taking the time to view my GitHub Profile :smile: 

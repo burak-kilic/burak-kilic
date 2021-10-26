@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img width="100%" height = "100%" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png" alt="cover" />
+<img width="50%" height = "50%" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>

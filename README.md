@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 
 <br>
   
-  [[wakatime](https://wakatime.com/badge/user/2b7796a6-a837-4be9-a244-33bd9d2a24fc.svg)](https://wakatime.com/@2b7796a6-a837-4be9-a244-33bd9d2a24fc)
-  
+   [![wakatime](https://wakatime.com/badge/user/2b7796a6-a837-4be9-a244-33bd9d2a24fc.svg)](https://wakatime.com/@2b7796a6-a837-4be9-a244-33bd9d2a24fc)
   
 <br>
   

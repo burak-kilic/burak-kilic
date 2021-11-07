@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   
 
 <br>
+  [![wakatime](https://wakatime.com/badge/user/2b7796a6-a837-4be9-a244-33bd9d2a24fc.svg)](https://wakatime.com/@2b7796a6-a837-4be9-a244-33bd9d2a24fc)
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=burak-kilic&count_private=true&show_icons=true&theme=dark" />

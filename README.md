@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 <br>
   <br>
   
-/*[![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<!-- [![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
   <br>
-_generated with [Platane/snk](https://github.com/Platane/snk)_](url)*/
+_generated with [Platane/snk](https://github.com/Platane/snk)_](url) -->

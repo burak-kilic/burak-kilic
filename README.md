@@ -70,4 +70,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kilic&theme=dark" />
 </a>
+<br>
+  <br>
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
